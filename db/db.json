@@ -112,6 +112,18 @@
         "Bacon"
       ],
       "status": "Solicitado"
+    },
+    {
+      "id": "5468",
+      "nome": "Cristiano Ronaldo",
+      "carne": "Veggie burger",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cebola roxa",
+        "Pepino",
+        "Tomate"
+      ],
+      "status": "Solicitado"
     }
   ]
 }
